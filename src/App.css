@@ -1,0 +1,36 @@
+/* *{
+  border: 1px solid red;
+} */
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+  width: 100vw;
+}
+h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+}
+.section-two input{
+  width: 30px;
+  margin-right: 5px;
+}
+.section-two button{
+  background-color: rgb(0, 113, 200);
+  color: antiquewhite;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.paragraph{
+  text-align: center;
+  width: 500px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(65, 65, 65);
+}
