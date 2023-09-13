@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import data from './data';
+import text from './data';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,9 +15,9 @@ function App() {
     if (amount > 8) {
       amount = 8
     }
-    const selectedParagraphs =100;
-    const results =data.slice(0, selectedParagraphs);
-    setParagraph(selectedParagraphs);
+    // const results =text.slice(0, amount);
+    // setParagraph(results);
+    setParagraph(text.slice(0, amount));
   }
   return (
     <section className="section-one">

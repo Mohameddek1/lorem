@@ -1,0 +1,12 @@
+const text = [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac lacus vel felis posuere aliquet in a est. Aenean dapibus quam in risus congue, nec volutpat felis tristique. Integer venenatis feugiat tellus, quis convallis risus congue nec. Proin eu vehicula metus. Sed vel bibendum tortor. Etiam vel semper sapien. Integer ac volutpat sapien. Fusce ut enim eu purus mattis feugiat.",
+    "Praesent at bibendum purus, quis interdum justo. Fusce rhoncus velit eu congue facilisis. Vivamus sed malesuada odio, id malesuada mi. Nulla facilisi. Nam tristique ante vel libero vehicula, ut pellentesque elit fringilla. Fusce eu quam eget lectus vestibulum volutpat at eget est. Aliquam auctor odio quis nisi ultricies, vitae egestas justo lacinia.",
+    "Suspendisse sit amet tincidunt quam. In a libero justo. Fusce non libero ac ex scelerisque cursus. Sed efficitur, dolor id bibendum auctor, tellus metus ultrices purus, eu bibendum risus tellus nec ligula. Fusce feugiat purus a libero venenatis tincidunt.",
+    "Vivamus ut dapibus massa. Sed id eros dui. Pellentesque non consectetur sapien. Vivamus ut ligula id leo lacinia dignissim. Nullam id bibendum libero, vel fringilla purus. Donec at nunc quis purus varius condimentum. Duis vitae rhoncus quam.",
+    "Aliquam eu nisl nec nisl varius vulputate id id tellus. Praesent eu arcu felis. Nulla facilisi. Morbi malesuada mi et ipsum iaculis, vel bibendum mi consectetur. In sit amet turpis vel ante vehicula tincidunt. Quisque rhoncus metus ac congue ullamcorper.",
+    "Curabitur bibendum urna vitae orci sollicitudin, nec volutpat nunc pellentesque. Aliquam erat volutpat. Vestibulum ut scelerisque elit. Nulla facilisi. Suspendisse potenti. Integer vel sodales lectus. Vivamus a libero a mi vestibulum sollicitudin. Ut vel sapien lectus.",
+    "Cras nec malesuada turpis. Sed interdum at enim a euismod. Sed eu aliquam enim, vel efficitur nunc. Sed vel semper justo, nec scelerisque sapien. Ut tincidunt, erat id facilisis malesuada, quam odio bibendum risus, a sagittis purus libero et odio.",
+    "In hac habitasse platea dictumst. Vestibulum eu erat ac enim ultricies commodo. Etiam at libero urna. In sagittis ante a erat dapibus volutpat. Curabitur quis orci vel dui dictum suscipit. Vivamus a fringilla quam, eu fermentum sapien. Integer consectetur nunc ut elit bibendum, nec fermentum tortor feugiat."
+]  
+
+export default text;
